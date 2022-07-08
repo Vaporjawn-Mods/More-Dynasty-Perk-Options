@@ -1,0 +1,28 @@
+blood_legacy_4 = { # Architected Ancestry
+	legacy = blood_legacy_track
+
+	effect = {
+		# Effect is applied in the on action 'on_birth_child'
+		custom_description_no_bullet = {
+			text = blood_legacy_4_effect
+		}
+	}
+
+	traits = {
+		beauty_good_3 = 100
+		intellect_good_3 = 100
+		physique_good_3 = 100
+		fecund = 50
+		ambitious  = 50
+		zealous = 50
+		albino = 50
+		paranoid = 10
+		giant = 10
+		dwarf = 1
+		scaly = 1
+		spindly = 1
+		inbred = 1
+		beauty_bad_3 = 1
+		intellect_bad_3 = 1
+	}
+}
