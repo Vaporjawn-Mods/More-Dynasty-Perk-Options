@@ -37,7 +37,7 @@ rsync -a --exclude '.git' --exclude '.gitattributes' --exclude '.vscode' --exclu
   [ "$ITEM" = "0" ] && { echo "	\"title\"		\"$TITLE\""; echo "	\"visibility\"		\"0\""; }
   printf '	"changenote"		"%s"\n' "$(sed 's/"/\\"/g' workshop/CHANGENOTES.txt)"
   printf '	"description"		"%s"\n' "$(sed 's/"/\\"/g' workshop/DESCRIPTION.txt)"
-  echo "	\"previewfile\"		\"$PWD/workshop/images/banner-preview.jpg\""
+  echo "	\"previewfile\"		\"$PWD/workshop/images/cover.jpg\""
   echo '}'
 } > "$VDF"
 
