@@ -11,7 +11,7 @@ Reworks the [b]Architected Ancestry[/b] dynasty perk (the fourth perk of the [b]
 
 [h2]Compatibility[/h2]
 [list]
-[*] Made for Crusader Kings III [b]1.20 "Crozier"[/b]
+[*] Made for Crusader Kings III [b]1.20 Crozier[/b]
 [*] This mod replaces the base game's [b]blood_legacy_4[/b] perk. It makes the same change as [b]Extra Ancestry Architecture[/b], so use only one of the two. It also conflicts with any other mod that changes this perk.
 [/list]
 
