@@ -1,0 +1,19 @@
+[h1]More Dynasty Perk Options[/h1]
+Reworks the [b]Architected Ancestry[/b] dynasty perk (the fourth perk of the [b]Blood[/b] legacy). When you unlock it you pick one congenital trait to become more common in your dynasty; this mod gives you more, and better, traits to pick from.
+
+[h2]What changes[/h2]
+[list]
+[*] [b]15 traits to choose from[/b] instead of 8
+[*] [b]Beauty, Intellect and Physique[/b] now offer the top tier (III) instead of tier I
+[*] [b]Added:[/b] Ambitious, Zealous, Paranoid, Spindly, Inbred, Bad Beauty III and Bad Intellect III
+[*] Unchanged: Fecund, Albino, Giant, Dwarf and Scaly keep their values from the base game
+[/list]
+
+[h2]Compatibility[/h2]
+[list]
+[*] Made for Crusader Kings III [b]1.20 "Crozier"[/b]
+[*] This mod replaces the base game's [b]blood_legacy_4[/b] perk. It makes the same change as [b]Extra Ancestry Architecture[/b], so use only one of the two. It also conflicts with any other mod that changes this perk.
+[/list]
+
+[h2]Source[/h2]
+https://github.com/Vaporjawn-Mods/More-Dynasty-Perk-Options

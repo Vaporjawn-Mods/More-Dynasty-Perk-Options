@@ -1,4 +1,4 @@
-version="1.5.*"
+version="1.20.1.2"
 tags={
 	"Utilities"
 	"Character Focuses"
@@ -7,4 +7,5 @@ tags={
 	"Gameplay"
 }
 name="More Dynasty Perk Options"
-supported_version="1.5.0.2"
+picture="thumbnail.png"
+supported_version="1.20.*"

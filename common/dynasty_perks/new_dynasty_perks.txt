@@ -1,4 +1,4 @@
-blood_legacy_4 = { # Architected Ancestry
+﻿blood_legacy_4 = { # Architected Ancestry
 	legacy = blood_legacy_track
 
 	effect = {

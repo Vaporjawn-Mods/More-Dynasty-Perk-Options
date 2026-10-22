@@ -1,0 +1,2 @@
+First Workshop release. Compatible with Crusader Kings III 1.20.1.2 (Crozier).
+Reworks the Architected Ancestry dynasty perk: 15 congenital traits to choose from instead of 8, with top-tier (III) Beauty, Intellect and Physique.
