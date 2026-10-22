@@ -7,7 +7,7 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 APPID=1158310
-ITEM="0"                      # 0 = create a new Workshop item (the new id is then written into descriptor.mod)
+ITEM="3824445454"                      # 0 = create a new Workshop item (the new id is then written into descriptor.mod)
 TITLE="More Dynasty Perk Options"
 STEAM_USER="${STEAM_USER:-vwizzle12}"
 SLUG="more-dynasty-perk-options"
